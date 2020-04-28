@@ -31,5 +31,6 @@ Dam, “A regression-based model evaluation of the Curie temperature of transiti
 
 ### Awards and Recognition
 - 2014 Aix-Marseille scholarship, Ponychung scholarship
-- 2014 First Prize Vietnam National Physics Olympiad for Students
-- 2013 First Prize Vietnam National Physics Olympiad for Students
+- 2014 First Prize, 17th Vietnam National Physics Olympiad for Students
+- 2014 High distinction Bachelor degree
+- 2013 First Prize, 16th Vietnam National Physics Olympiad for Students
