@@ -15,7 +15,6 @@ High Distinction Degree
 5. D. N. Nguyen, H. C. Dam et al, Oxygen-Diffusion-Driven Oxidation Behavior and Tracking Areas Visualized by X-ray Spectro-Ptychography with Unsupervised Learning”, Comm. Chem., Nature Research, 2, 50 (2019).
 6. D. N. Nguyen, H. C. Dam et al, “PtCo/C Cathode Catalyst Degradation in a Polymer Electrolyte Fuel Cell Investigated by an Infographic Approach Combining Three-Dimensional Spectroimaging and Unsupervised Learning”, J. Phys. Chem. C, 18844, 123, 31 (2019).
 
-
 ### Awards and Recognition
 - 2014 Aix-Marseille scholarship, Ponychung scholarship
 - 2014 First Prize Vietnam National Physics Olympiad for Students
