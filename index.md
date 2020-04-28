@@ -1,14 +1,14 @@
 ### Academic Experience
-04/2020 - Present: Assistant Professor, Japan Advanced Institute of Science and Technology
-10/2019 - 04/2020: Post doctoral, Japan Advanced Institute of Science and Technology
-04/2016 - 09/2019: Research Assistant, Japan Advanced Institute of Science and Technology
-03/2015 - 07/2015: Research Internship, Center of Theoretical Physics, Aix-Marseille University
+- 04/2020 - Present: Assistant Professor, Japan Advanced Institute of Science and Technology
+- 10/2019 - 04/2020: Post doctoral, Japan Advanced Institute of Science and Technology
+- 04/2016 - 09/2019: Research Assistant, Japan Advanced Institute of Science and Technology
+- 03/2015 - 07/2015: Research Internship, Center of Theoretical Physics, Aix-Marseille University
 
 
 ### Educations
-2019 - Doctor of Philosophy, Japan Advanced Institute of Science and Technology, Japan
-2015 - Master of Physics, P3TMA Mathematical Physics, Particles Physics and Astronomy, Aix-Marseille University, France
-2014 - Bachelor of Physics, Honor Program, Hanoi University of Science, Vietnam National University (HUS-VNU)
+- 2019 - Doctor of Philosophy, Japan Advanced Institute of Science and Technology, Japan
+- 2015 - Master of Physics, P3TMA Mathematical Physics, Particles Physics and Astronomy, Aix-Marseille University, France
+- 2014 - Bachelor of Physics, Honor Program, Hanoi University of Science, Vietnam National University (HUS-VNU)
 High Distinction Degree
 
 ### Publications
