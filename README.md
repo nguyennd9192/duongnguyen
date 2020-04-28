@@ -1,3 +1,3 @@
 # dnguyen
-Link to https://nguyennd9192.github.io/dnguyen/
+Link to https://nguyennd9192.github.io/duongnguyen/
 
