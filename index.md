@@ -34,3 +34,9 @@ Dam, “A regression-based model evaluation of the Curie temperature of transiti
 - 2014 First Prize, 17th Vietnam National Physics Olympiad for Students
 - 2014 High distinction Bachelor degree
 - 2013 First Prize, 16th Vietnam National Physics Olympiad for Students
+
+
+### Contact information
+School of Knowledge Science, Japan Advanced Institute of Sciencen and Technology
+K55, 1-1, Asahidai, Nomi, Ishikawa, Japan
+Email: nguyennd@jaist.ac.jp
