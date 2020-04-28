@@ -38,5 +38,7 @@ Dam, “A regression-based model evaluation of the Curie temperature of transiti
 
 ### Contact information
 School of Knowledge Science, Japan Advanced Institute of Sciencen and Technology
+
 K55, 1-1, Asahidai, Nomi, Ishikawa, Japan
+
 Email: nguyennd@jaist.ac.jp
