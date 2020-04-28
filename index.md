@@ -5,7 +5,7 @@
 - 03/2015 - 07/2015: Research Internship, Center of Theoretical Physics, Aix-Marseille University
 
 
-### Educationß
+### Education
 - 2019 - Doctor of Philosophy, Machine Learning in Materials Science, Japan Advanced Institute of Science and Technology, Japan
 - 2015 - Master of Physics, Mathematical Physics, Particles Physics and Astronomy, Aix-Marseille University, France
 - 2014 - Bachelor of Physics, Honor Program, Hanoi University of Science, Vietnam National University, Vietnam
