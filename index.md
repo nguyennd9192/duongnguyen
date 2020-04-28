@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/nguyennd9192/dnguyen/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nguyennd9192/dnguyen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Publications
+1.	D. N. Nguyen, T. Miyake, H. C. Dam et al, “Learning structure-property relationship in crystalline materials: A study of lanthanide transition metal alloys”, J. Chem. Phys., 148, 20, 204106 (2018).
+2.	D. N. Nguyen, H. C. Dam et al, “Committee machine that votes for similarity between materials”, IUCrJ, 5, 830–840 (2018).
+3.	D. N. Nguyen, T. Miyake, H. C. Dam et al, “Ensemble learning reveals dissimilarity between rare-earth transition-metal binary alloys with respect to the Curie temperature”, J. Phys: Materials, 2, 3 (2019).
+4.	D. N. Nguyen and H. C. Dam, “A regression-based model evaluation of the Curie temperature of transition-metal rare-earth compounds”, J. Phys.: Conf. Ser., 1290 012009 (2019).
+5.	D. N. Nguyen, H. C. Dam et al, Oxygen-Diffusion-Driven Oxidation Behavior and Tracking Areas Visualized by X-ray Spectro-Ptychography with Unsupervised Learning”, Comm. Chem., Nature Research, 2, 50 (2019).
+6.	D. N. Nguyen, H. C. Dam et al, “PtCo/C Cathode Catalyst Degradation in a Polymer Electrolyte Fuel Cell Investigated by an Infographic Approach Combining Three-Dimensional Spectroimaging and Unsupervised Learning”, J. Phys. Chem. C, 18844, 123, 31 (2019).
