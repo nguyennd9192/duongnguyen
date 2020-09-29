@@ -12,7 +12,7 @@
 
 ### Publications
 1.  **Duong-Nguyen Nguyen**, Duc-Anh Dao,  Takashi Miyake, and  Hieu-Chi Dam, "Boron cage effects on Nd–Fe–B crystal structure’s stability", [J. Chem. Phys.](https://aip.scitation.org/doi/10.1063/5.0015977), 153, 114111 (2020).
-2. Tien-Lam Pham, **Duong-Nguyen Nguyen**, Minh-Quyet Ha, Hiori Kino, Takashi Miyake, and Hieu-Chi Dama,
+2. Tien-Lam Pham, **Duong-Nguyen Nguyen**, Minh-Quyet Ha, Hiori Kino, Takashi Miyake, and Hieu-Chi Dam,
 "Explainable machine learning for materials discovery: predicting the potentially formable Nd–Fe–B crystal structures and extracting the structure–stability relationship", [IUCrJ](https://doi.org/10.1107/S2052252520010088), 7, 6, 2052-2525 (2020)
 3. **Duong-Nguyen Nguyen**, Tien-Lam Pham, Viet-Cuong Nguyen, Hiori Kino, Takashi Miyake, and Hieu-Chi Dam, “Ensemble learning reveals dissimilarity between rare-earth transition-metal binary alloys with respect to the Curie temperature”, [J. Phys: Materials](https://iopscience.iop.org/article/10.1088/2515-7639/ab1738), 2, 3 (2019).
 4. **Duong-Nguyen Nguyen**, Tien-Lam Pham, Viet-Cuong Nguyen, Anh-Tuan Nguyen, Hiori Kino, Takashi Miyake, and Hieu-Chi
