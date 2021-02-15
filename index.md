@@ -24,12 +24,14 @@ Dam, “A regression-based model evaluation of the Curie temperature of transiti
 9. **Duong-Nguyen Nguyen**, Tien-Lam Pham, Viet-Cuong Nguyen, Tuan-Dung Ho, Truyen Tran, Keisuke Takahashie and Hieu-Chi Dam, “Committee machine that votes for similarity between materials”, [IUCrJ](https://journals.iucr.org/m/issues/2018/06/00/zx5015/?fbclid=IwAR0c55Mr4zeUs-rp7ID4X6rpymihTteORauOqZBoPi9DJQZ08LaQjDKiKhk), 5, 830–840 (2018).
 
 ### Conferences
-1. **D. N. Nguyen**, T. Miyake and H. C. Dam, “Machine learning extracts structure-stability relationship of substituted Fe-Nd-X structures”, 60th Sanibel symposium meeting, GA, USA, Feb.16-21 (2020), poster.
-2. **D. N. Nguyen** and H. C. Dam, “Discovery of new stable Fe-Nd-X structures with machine learning”, Joint European Magnetic Symposia, Uppsala, Sweden, Aug. 26-30 (2019), presentation.
-3. **D. N. Nguyen**, T. Miyake and H. C. Dam, “Uncovering new stable Fe-Nd-X structures with machine learning”, Materials Research Meeting, Yokohama, Japan, Dec. 7-11 (2019), poster.
-4. **D. N. Nguyen**, T. Miyake, H. C. Dam et al, “Ensemble learning reveals insights into the mechanism of physical properties of materials”, Computational Sciences Workshop (CSW), by CD-FMat and AIST, Tokyo, Japan, Jan. 16-19 (2019), poster.
-5. **D. N. Nguyen**, H. C. Dam et al, “Committee machine that votes for similarity between materials”, XXX International Conference on Computational Physics (CCP2018), University of California, Davis, California, USA, Jul. 29-Aug. 2 (2018), presentation.
-6. **D. N. Nguyen**, H. C. Dam et al, “Committee machine that votes for similarity between materials”, Asian Consortium on Computational Materials Science Theme Meeting on “Multi-scale Modelling of Materials for Sustainable Development” (ACCMS-TM 2018), Hanoi, Vietnam, Sept. 7-9 (2018), presentation.
+1. 松井公佑, 石黒志, **D. N. Nguyen**, H. C. Dam, 東晃太朗,宇留賀朋哉,唯美津木. "PEFC Pt/Cカソード電極触媒の劣化に関するEXAFS-
+CTイメージングと教師なし機械学習解析", The Japanese Society for Synchrotron Radiation (01/2021)/
+2. **D. N. Nguyen**, T. Miyake and H. C. Dam, “Machine learning extracts structure-stability relationship of substituted Fe-Nd-X structures”, 60th Sanibel symposium meeting, GA, USA, Feb.16-21 (2020), poster.
+3. **D. N. Nguyen** and H. C. Dam, “Discovery of new stable Fe-Nd-X structures with machine learning”, Joint European Magnetic Symposia, Uppsala, Sweden, Aug. 26-30 (2019), presentation.
+4. **D. N. Nguyen**, T. Miyake and H. C. Dam, “Uncovering new stable Fe-Nd-X structures with machine learning”, Materials Research Meeting, Yokohama, Japan, Dec. 7-11 (2019), poster.
+5. **D. N. Nguyen**, T. Miyake, H. C. Dam et al, “Ensemble learning reveals insights into the mechanism of physical properties of materials”, Computational Sciences Workshop (CSW), by CD-FMat and AIST, Tokyo, Japan, Jan. 16-19 (2019), poster.
+6. **D. N. Nguyen**, H. C. Dam et al, “Committee machine that votes for similarity between materials”, XXX International Conference on Computational Physics (CCP2018), University of California, Davis, California, USA, Jul. 29-Aug. 2 (2018), presentation.
+7. **D. N. Nguyen**, H. C. Dam et al, “Committee machine that votes for similarity between materials”, Asian Consortium on Computational Materials Science Theme Meeting on “Multi-scale Modelling of Materials for Sustainable Development” (ACCMS-TM 2018), Hanoi, Vietnam, Sept. 7-9 (2018), presentation.
 
 
 ### Awards and Recognition
