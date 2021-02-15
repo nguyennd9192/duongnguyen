@@ -25,7 +25,7 @@ Dam, “A regression-based model evaluation of the Curie temperature of transiti
 
 ### Conferences
 1. 松井公佑, 石黒志, **D. N. Nguyen**, H. C. Dam, 東晃太朗,宇留賀朋哉,唯美津木. "PEFC Pt/Cカソード電極触媒の劣化に関するEXAFS-
-CTイメージングと教師なし機械学習解析", The Japanese Society for Synchrotron Radiation (01/2021)/
+CTイメージングと教師なし機械学習解析", The Japanese Society for Synchrotron Radiation (01/2021).
 2. **D. N. Nguyen**, T. Miyake and H. C. Dam, “Machine learning extracts structure-stability relationship of substituted Fe-Nd-X structures”, 60th Sanibel symposium meeting, GA, USA, Feb.16-21 (2020), poster.
 3. **D. N. Nguyen** and H. C. Dam, “Discovery of new stable Fe-Nd-X structures with machine learning”, Joint European Magnetic Symposia, Uppsala, Sweden, Aug. 26-30 (2019), presentation.
 4. **D. N. Nguyen**, T. Miyake and H. C. Dam, “Uncovering new stable Fe-Nd-X structures with machine learning”, Materials Research Meeting, Yokohama, Japan, Dec. 7-11 (2019), poster.
