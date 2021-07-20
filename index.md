@@ -11,6 +11,7 @@
 - 2014 - Bachelor of Physics, Honor Program, Hanoi University of Science, Vietnam National University, Vietnam
 
 ### Publications
+1. Minh-Quyet Ha, Duong-Nguyen Nguyen, Viet-Cuong Nguyen, Takahiro Nagata, Toyohiro Chikyow, Hiori Kino, Takashi Miyake, Thierry Denœux, Van-Nam Huynh, Hieu-Chi Dam, “Evidence-based recommender system for high-entropy alloys.” [Nat. Comp. Sci](https://www.nature.com/articles/s43588-021-00097-w) (2021)
 1. Hideshi Uematsu, Nozomu Ishiguro*, Masaki Abe, Shuntaro Takazawa, Jungmin Kang, Eiji Hosono, **Nguyen Duong Nguyen**, Hieu Chi Dam, Masashi Okubo, and Yukio Takahashi, "Visualization of Structural Heterogeneities in Particles of Lithium Nickel Manganese Oxide Cathode Materials by Ptychographic X-ray Absorption Fine Structure", [J. Phys. Chem. Lett.](https://pubs.acs.org/doi/10.1021/acs.jpclett.1c01445), 12, 24, 5781–5788 (2021).
 1. **Duong-Nguyen Nguyen**, Duc-Anh Dao,  Takashi Miyake, and  Hieu-Chi Dam, "Boron cage effects on Nd–Fe–B crystal structure’s stability", [J. Chem. Phys.](https://aip.scitation.org/doi/10.1063/5.0015977), 153, 114111 (2020).
 1. Tien-Lam Pham, **Duong-Nguyen Nguyen**, Minh-Quyet Ha, Hiori Kino, Takashi Miyake, and Hieu-Chi Dam,
@@ -36,6 +37,7 @@ CTイメージングと教師なし機械学習解析", The Japanese Society for
 
 
 ### Awards and Recognition
+- 2021 JSPS KAKENHI Grants 21K14396 for Early-Career Scientists
 - 2014 Aix-Marseille scholarship, Ponychung scholarship
 - 2014 First Prize, 17th Vietnam National Physics Olympiad for Students
 - 2014 High-distinction Bachelor degree
